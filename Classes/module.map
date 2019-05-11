@@ -1,4 +1,0 @@
-module h3 [system] {
-    header "h3/h3/src/h3lib/include/h3api.h"
-    export *
-}
